@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>AI Interview Preparation Platform</h1>
+      <h1>AI Interview Preparation Platform 🚀</h1>
       <button>Upload Resume</button>
     </div>
   );
